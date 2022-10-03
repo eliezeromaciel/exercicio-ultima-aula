@@ -1,0 +1,33 @@
+/* RESETS */
+
+*{
+    padding: 0px;
+    margin: 0px;   
+}
+
+body {
+    height: 100vh;
+}
+
+/* RESTANTE */
+
+body {
+    background: #3B3D5D;
+}
+
+.cabecalho {
+    height: 110px;
+    background: #1F2235;
+    padding: 18px;
+}
+
+.buttonsHomeEContato {
+    width: 94px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+
