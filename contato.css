@@ -17,7 +17,7 @@
     border-radius: 10px;
     width: 100px;
     height: 70px;
-    margin: 20px;
+    margin: 20px;   
 }
 
 .box {
@@ -29,9 +29,12 @@
     padding:10px;
     margin-left: 10px;
     font-size: large;
+    border: solid black 1px;
+    width: 660px;
 }
 
 .cabecalho > a:nth-child(2) {
     background-color: #FF4A57;;
 
 }
+
